@@ -1,0 +1,659 @@
+{
+  "data": [
+    {
+      "title": "colors",
+      "item": [
+        {
+          "id": "1",
+          "german": "schwarz",
+          "turkish": "siyah"
+        },
+        {
+          "id": "2",
+          "german": "grau",
+          "turkish": "gri"
+        },
+        {
+          "id": "3",
+          "german": "blau",
+          "turkish": "mavi"
+        },
+        {
+          "id": "4",
+          "german": "grün",
+          "turkish": "yeşil"
+        },
+        {
+          "id": "5",
+          "german": "waiß",
+          "turkish": "beyaz"
+        },
+        {
+          "id": "6",
+          "german": "rot",
+          "turkish": "kırmızı"
+        },
+        {
+          "id": "7",
+          "german": "gelb",
+          "turkish": "sarı"
+        },
+        {
+          "id": "8",
+          "german": "braun",
+          "turkish": "kahverengi"
+        }
+      ]
+    },
+    {
+      "title": "Zeitangaben",
+      "item": [
+        {
+          "id": "1",
+          "german": "die Sekunde, -n",
+          "turkish": "saniye"
+        },
+        {
+          "id": "2",
+          "german": "die Minute, -n",
+          "turkish": "dakika"
+        },
+        {
+          "id": "3",
+          "german": "die Stunde, -n",
+          "turkish": "Saat(zaman)"
+        },
+        {
+          "id": "4",
+          "german": "der Tag, -e",
+          "turkish": "gün(zaman)"
+        },
+        {
+          "id": "5",
+          "german": "die Woche, -e",
+          "turkish": "hafta"
+        },
+        {
+          "id": "6",
+          "german": "das Jahr, -e",
+          "turkish": "Yıl"
+        }
+      ]
+    },
+    {
+      "title": "Wochentage",
+      "item": [
+        {
+          "id": "1",
+          "german": "der Sonntag",
+          "turkish": "Pazar"
+        },
+        {
+          "id": "2",
+          "german": "der Montag",
+          "turkish": "Pazartesi"
+        },
+        {
+          "id": "3",
+          "german": "der Dienstag",
+          "turkish": "Salı"
+        },
+        {
+          "id": "4",
+          "german": "der Mittwoch",
+          "turkish": "Çarşamba"
+        },
+        {
+          "id": "5",
+          "german": "der Donnerstag ",
+          "turkish": "Perşembe"
+        },
+        {
+          "id": "6",
+          "german": "der Freitag",
+          "turkish": "Cuma"
+        },
+        {
+          "id": "7",
+          "german": "das Wochenende",
+          "turkish": "Haftasonu"
+        },
+        {
+          "id": "8",
+          "german": "am Wochenende",
+          "turkish": "Haftasonunda"
+        },
+        {
+          "id": "9",
+          "german": "der Samstag/Sonnabend",
+          "turkish": "Cumartesi"
+        }
+      ]
+    },
+    {
+      "title": "Himmelsrichtungen",
+      "item": [
+        {
+          "id": "1",
+          "german": "der Norden",
+          "turkish": "Kuzey"
+        },
+        {
+          "id": "2",
+          "german": "der Süden",
+          "turkish": "Güney"
+        },
+        {
+          "id": "3",
+          "german": "der Westen",
+          "turkish": "Batı"
+        },
+        {
+          "id": "4",
+          "german": "der Osten",
+          "turkish": "Doğu"
+        }
+      ]
+    },
+    {
+      "title": "Nationalitaten",
+      "item": [
+        {
+          "id": "1",
+          "german": "die Türkei",
+          "turkish": "Türkiye"
+        },
+        {
+          "id": "1",
+          "german": "Ägypten",
+          "turkish": "Mısır"
+        },
+        {
+          "id": "1",
+          "german": "Albanien",
+          "turkish": "Arnavutluk"
+        },
+        {
+          "id": "1",
+          "german": "Belgien",
+          "turkish": "Belçika"
+        },
+        {
+          "id": "1",
+          "german": "Bulgarien",
+          "turkish": "Bulgaristan"
+        },
+        {
+          "id": "1",
+          "german": "China",
+          "turkish": "Çin"
+        },
+        {
+          "id": "1",
+          "german": "Finnland",
+          "turkish": "Finlandiya"
+        },
+        {
+          "id": "1",
+          "german": "Frankreich",
+          "turkish": "Fransa"
+        },
+        {
+          "id": "1",
+          "german": "Griechenland",
+          "turkish": "Yunanistan"
+        },
+        {
+          "id": "1",
+          "german": "Holland",
+          "turkish": "Hollanda"
+        },
+        {
+          "id": "1",
+          "german": "Indien",
+          "turkish": "Hindistan"
+        },
+        {
+          "id": "1",
+          "german": "der Irak",
+          "turkish": "Irak"
+        },
+        {
+          "id": "1",
+          "german": "der Iran",
+          "turkish": "İran"
+        },
+        {
+          "id": "1",
+          "german": "Israel",
+          "turkish": "İsrail"
+        },
+        {
+          "id": "1",
+          "german": "Ungarn",
+          "turkish": "Macaristan"
+        },
+        {
+          "id": "1",
+          "german": "Italien",
+          "turkish": "İtalya"
+        },
+        {
+          "id": "1",
+          "german": "Japan",
+          "turkish": "Japonya"
+        },
+        {
+          "id": "1",
+          "german": "Jordanien",
+          "turkish": "Ürdün"
+        },
+        {
+          "id": "1",
+          "german": "Norwegen",
+          "turkish": "Norveç"
+        },
+        {
+          "id": "1",
+          "german": "Österreich",
+          "turkish": "Avusturya"
+        },
+        {
+          "id": "1",
+          "german": "Polen",
+          "turkish": "Polonya"
+        },
+        {
+          "id": "1",
+          "german": "Rumänien",
+          "turkish": "Romanya"
+        },
+        {
+          "id": "1",
+          "german": "Schweden",
+          "turkish": "İsveç"
+        },
+        {
+          "id": "1",
+          "german": "die Schweiz",
+          "turkish": "İsviçre"
+        },
+        {
+          "id": "1",
+          "german": "Russland",
+          "turkish": "Rusya"
+        },
+        {
+          "id": "1",
+          "german": "Spanien",
+          "turkish": "İspanya"
+        },
+        {
+          "id": "1",
+          "german": "Ungarn",
+          "turkish": "Macaristan"
+        },
+        {
+          "id": "1",
+          "german": "Arabisch",
+          "turkish": "Arapça"
+        },
+        {
+          "id": "1",
+          "german": "Paschtu",
+          "turkish": "Peştuca"
+        },
+        {
+          "id": "1",
+          "german": "Albanisch",
+          "turkish": "Arnavutça"
+        },
+        {
+          "id": "1",
+          "german": "Französisch",
+          "turkish": "Fransızca"
+        },
+        {
+          "id": "1",
+          "german": "Bulgarisch",
+          "turkish": "Bulgarca"
+        },
+        {
+          "id": "1",
+          "german": "Chinesisch",
+          "turkish": "Çince"
+        },
+        {
+          "id": "1",
+          "german": "Dänisch",
+          "turkish": "Danca"
+        },
+        {
+          "id": "1",
+          "german": "Englisch",
+          "turkish": "İngilizce"
+        },
+        {
+          "id": "1",
+          "german": "Deutsch",
+          "turkish": "Almanca"
+        },
+        {
+          "id": "1",
+          "german": "Finnisch",
+          "turkish": "Fince"
+        },
+        {
+          "id": "1",
+          "german": "Griechisch",
+          "turkish": "Yunanca"
+        },
+        {
+          "id": "1",
+          "german": "Hindi",
+          "turkish": "Hintçe"
+        },
+        {
+          "id": "1",
+          "german": "Persisch",
+          "turkish": "Frasça"
+        },
+        {
+          "id": "1",
+          "german": "Italienisch",
+          "turkish": "İtalyanca"
+        },
+        {
+          "id": "1",
+          "german": "Japanisch",
+          "turkish": "Japonca"
+        },
+        {
+          "id": "1",
+          "german": "Polnisch",
+          "turkish": "Lehçe"
+        },
+        {
+          "id": "1",
+          "german": "Rumänisch",
+          "turkish": "Rumence"
+        },
+        {
+          "id": "1",
+          "german": "Schwedich",
+          "turkish": "İsveçce"
+        },
+        {
+          "id": "1",
+          "german": "Russisch",
+          "turkish": "Rusça"
+        },
+        {
+          "id": "1",
+          "german": "Spanisch",
+          "turkish": "İspanyolca"
+        },
+        {
+          "id": "1",
+          "german": "Türkisch",
+          "turkish": "Türkçe"
+        }
+      ]
+    },
+    {
+      "title": "Familie",
+      "item": [
+        {
+          "id": "1",
+          "german": "die Eltern\n",
+          "turkish": "ebeveyn"
+        },
+        {
+          "id": "1",
+          "german": "die Mutter, ..",
+          "turkish": "anne"
+        },
+        {
+          "id": "1",
+          "german": "die Mama, s",
+          "turkish": "anne"
+        },
+        {
+          "id": "1",
+          "german": "die Mutti, s",
+          "turkish": "anne"
+        },
+        {
+          "id": "1",
+          "german": "der Vater, ..",
+          "turkish": "Baba"
+        },
+        {
+          "id": "1",
+          "german": "der Papa, s",
+          "turkish": "Baba"
+        },
+        {
+          "id": "1",
+          "german": "der Vati, s",
+          "turkish": "Baba"
+        },
+        {
+          "id": "1",
+          "german": "das Geschwister, –",
+          "turkish": "kardeş"
+        },
+        {
+          "id": "1",
+          "german": "die Schwester, n",
+          "turkish": "kız kardeş"
+        },
+        {
+          "id": "1",
+          "german": "der Bruder, ..",
+          "turkish": "erkek kardeş"
+        },
+        {
+          "id": "1",
+          "german": "die Ehefrau, en",
+          "turkish": "(kadın) eş"
+        },
+        {
+          "id": "1",
+          "german": "die Ehegattin, nen",
+          "turkish": "(kadın) eş"
+        },
+        {
+          "id": "1",
+          "german": "die Gattin, nen",
+          "turkish": "(kadın) eş"
+        },
+        {
+          "id": "1",
+          "german": "der Ehemann, ..er",
+          "turkish": "koca"
+        },
+        {
+          "id": "1",
+          "german": "der Ehegatte, n",
+          "turkish": "koca"
+        },
+        {
+          "id": "1",
+          "german": "der Gatte, n",
+          "turkish": "koca"
+        },
+        {
+          "id": "1",
+          "german": "die Tochter, ..",
+          "turkish": "kız evlat"
+        },
+        {
+          "id": "1",
+          "german": "der Sohn, ..e",
+          "turkish": "oğul"
+        },
+        {
+          "id": "1",
+          "german": "die Großeltern",
+          "turkish": "büyükanne ve büyükbaba"
+        },
+        {
+          "id": "1",
+          "german": "die Großmutter, ..",
+          "turkish": "büyük anne"
+        },
+        {
+          "id": "1",
+          "german": "die Oma, s",
+          "turkish": "büyük anne"
+        },
+        {
+          "id": "1",
+          "german": "der Großvater, ..",
+          "turkish": "büyük baba"
+        },
+        {
+          "id": "1",
+          "german": "der Opa, s",
+          "turkish": "büyük baba"
+        },
+        {
+          "id": "1",
+          "german": "das Enkelkind, er",
+          "turkish": "torun"
+        },
+        {
+          "id": "1",
+          "german": "das Kindeskind, er",
+          "turkish": "torun"
+        },
+        {
+          "id": "1",
+          "german": "die Enkelin, nen",
+          "turkish": "kız torun"
+        },
+        {
+          "id": "1",
+          "german": "die Enkeltochter, ..",
+          "turkish": "kız torun"
+        },
+        {
+          "id": "1",
+          "german": "der Enkel, –",
+          "turkish": "erkek torun"
+        },
+        {
+          "id": "1",
+          "german": "der Enkelsohn, ..e",
+          "turkish": "erkek torun"
+        },
+        {
+          "id": "1",
+          "german": "die Tante, n",
+          "turkish": "teyze, hala"
+        },
+        {
+          "id": "1",
+          "german": "der Onkel",
+          "turkish": "amca, dayı, enişte"
+        },
+        {
+          "id": "1",
+          "german": "die Cousine, n",
+          "turkish": "(kız) kuzen"
+        },
+        {
+          "id": "1",
+          "german": "die Kusine, n",
+          "turkish": "(kız) kuzen"
+        },
+        {
+          "id": "1",
+          "german": "der Cousin, s",
+          "turkish": "(erkek) kuzen"
+        },
+        {
+          "id": "1",
+          "german": "der Vetter, n",
+          "turkish": "(erkek) kuzen"
+        },
+        {
+          "id": "1",
+          "german": "die Nichte, n",
+          "turkish": "(kız) yeğen\n"
+        },
+        {
+          "id": "1",
+          "german": "der Neffe, n\n",
+          "turkish": "(erkek) yeğen"
+        },
+        {
+          "id": "1",
+          "german": "die Schwiegermutter, ..",
+          "turkish": "kaynana"
+        },
+        {
+          "id": "1",
+          "german": "der Schwiegervater, ..",
+          "turkish": "kayınpeder"
+        },
+        {
+          "id": "1",
+          "german": "die Schwiegereltern",
+          "turkish": "kayınbaba ve kaynana"
+        },
+        {
+          "id": "1",
+          "german": "die Schwägerin, nen",
+          "turkish": "baldız"
+        },
+        {
+          "id": "1",
+          "german": "der Schwager, ..",
+          "turkish": "kayınço"
+        },
+        {
+          "id": "1",
+          "german": "die Schwiegertochter, ..",
+          "turkish": "gelin"
+        },
+        {
+          "id": "1",
+          "german": "der Schwiegersohn, ..e",
+          "turkish": "damat"
+        },
+        {
+          "id": "1",
+          "german": "die Stiefmutter, ..",
+          "turkish": "üvey anne"
+        },
+        {
+          "id": "1",
+          "german": "der Stiefvater, ..",
+          "turkish": "üvey baba"
+        },
+        {
+          "id": "1",
+          "german": "die Stieftochter, ..",
+          "turkish": "üvey kız"
+        },
+        {
+          "id": "1",
+          "german": "der Stiefsohn, ..",
+          "turkish": "üvey oğul"
+        },
+        {
+          "id": "1",
+          "german": "die Stiefschwester, n",
+          "turkish": "üvey kızkardeş"
+        },
+        {
+          "id": "1",
+          "german": "der Stiefbruder, ..",
+          "turkish": "üvey erkek kardeş"
+        }
+      ]
+    }
+  ]
+}

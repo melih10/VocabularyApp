@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D44585E12943043100C9824F /* Vocabulary.json in Resources */ = {isa = PBXBuildFile; fileRef = D44585E02943043100C9824F /* Vocabulary.json */; };
 		D4E4743F293FC00200B51AD6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E4743E293FC00200B51AD6 /* AppDelegate.swift */; };
 		D4E47441293FC00200B51AD6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E47440293FC00200B51AD6 /* SceneDelegate.swift */; };
 		D4E47443293FC00200B51AD6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E47442293FC00200B51AD6 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 		D4E47459293FC00300B51AD6 /* VocabularyAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E47458293FC00300B51AD6 /* VocabularyAppTests.swift */; };
 		D4E47463293FC00300B51AD6 /* VocabularyAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E47462293FC00300B51AD6 /* VocabularyAppUITests.swift */; };
 		D4E47465293FC00300B51AD6 /* VocabularyAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E47464293FC00300B51AD6 /* VocabularyAppUITestsLaunchTests.swift */; };
+		D4ECEDCE294312A4002E94FA /* Modals.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4ECEDCD294312A4002E94FA /* Modals.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D44585E02943043100C9824F /* Vocabulary.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Vocabulary.json; sourceTree = "<group>"; };
 		D4E4743B293FC00200B51AD6 /* VocabularyApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VocabularyApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4E4743E293FC00200B51AD6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D4E47440293FC00200B51AD6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +54,7 @@
 		D4E4745E293FC00300B51AD6 /* VocabularyAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VocabularyAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4E47462293FC00300B51AD6 /* VocabularyAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabularyAppUITests.swift; sourceTree = "<group>"; };
 		D4E47464293FC00300B51AD6 /* VocabularyAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabularyAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D4ECEDCD294312A4002E94FA /* Modals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modals.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,9 +105,11 @@
 		D4E4743D293FC00200B51AD6 /* VocabularyApp */ = {
 			isa = PBXGroup;
 			children = (
+				D44585E02943043100C9824F /* Vocabulary.json */,
 				D4E4743E293FC00200B51AD6 /* AppDelegate.swift */,
 				D4E47440293FC00200B51AD6 /* SceneDelegate.swift */,
 				D4E47442293FC00200B51AD6 /* ViewController.swift */,
+				D4ECEDCD294312A4002E94FA /* Modals.swift */,
 				D4E47444293FC00200B51AD6 /* Main.storyboard */,
 				D4E4744A293FC00300B51AD6 /* Assets.xcassets */,
 				D4E4744C293FC00300B51AD6 /* LaunchScreen.storyboard */,
@@ -237,6 +243,7 @@
 				D4E4744E293FC00300B51AD6 /* LaunchScreen.storyboard in Resources */,
 				D4E4744B293FC00300B51AD6 /* Assets.xcassets in Resources */,
 				D4E47446293FC00200B51AD6 /* Main.storyboard in Resources */,
+				D44585E12943043100C9824F /* Vocabulary.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,6 +271,7 @@
 				D4E47443293FC00200B51AD6 /* ViewController.swift in Sources */,
 				D4E4743F293FC00200B51AD6 /* AppDelegate.swift in Sources */,
 				D4E47441293FC00200B51AD6 /* SceneDelegate.swift in Sources */,
+				D4ECEDCE294312A4002E94FA /* Modals.swift in Sources */,
 				D4E47449293FC00200B51AD6 /* VocabularyApp.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
