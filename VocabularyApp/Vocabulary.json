@@ -406,7 +406,7 @@
         {
           "id": "1",
           "german": "die Eltern\n",
-          "turkish": "ebeveyn"
+          "turkish": "ebebeyn"
         },
         {
           "id": "1",
@@ -652,6 +652,261 @@
           "id": "1",
           "german": "der Stiefbruder, ..",
           "turkish": "üvey erkek kardeş"
+        }
+      ]
+    },
+    {
+      "title": "dasZimmer",
+      "item": [
+        {
+          "id": "1",
+          "german": "das Bad, ..",
+          "turkish": "banyo"
+        },
+        {
+          "id": "1",
+          "german": "das Badezimmer, –",
+          "turkish": "banyo"
+        },
+        {
+          "id": "1",
+          "german": "der Balkon, e",
+          "turkish": "balkon"
+        },
+        {
+          "id": "1",
+          "german": "die Bibliothek, en",
+          "turkish": "kütüphane"
+        },
+        {
+          "id": "1",
+          "german": "die Eingangshalle, n",
+          "turkish": "giriş yolu"
+        },
+        {
+          "id": "1",
+          "german": "der Flur, e",
+          "turkish": "salon"
+        },
+        {
+          "id": "1",
+          "german": "der Balkon, e",
+          "turkish": "balkon"
+        },
+        {
+          "id": "1",
+          "german": "der Garten, ..",
+          "turkish": "bahçe"
+        },
+        {
+          "id": "1",
+          "german": "das Gästezimmer, –",
+          "turkish": "misafir odası"
+        },
+        {
+          "id": "1",
+          "german": "der Keller, –",
+          "turkish": "bodrum"
+        },
+        {
+          "id": "1",
+          "german": "das Kinderzimmer, –",
+          "turkish": "çocuk odası"
+        },
+        {
+          "id": "1",
+          "german": "die Küche, n",
+          "turkish": "mutfak"
+        },
+        {
+          "id": "1",
+          "german": "das Esszimmer, –",
+          "turkish": "yemek odası"
+        },
+        {
+          "id": "1",
+          "german": "die Toilette, n",
+          "turkish": "tuvalet"
+        },
+        {
+          "id": "1",
+          "german": "der Weinkeller, –",
+          "turkish": "şarap mahzeni"
+        },
+        {
+          "id": "1",
+          "german": "das Wohnzimmer, –",
+          "turkish": "oturma odası"
+        },
+        {
+          "id": "1",
+          "german": "das Schlafzimmer, –",
+          "turkish": "yatak odası"
+        },
+        {
+          "id": "1",
+          "german": "das Gästezimmer, –",
+          "turkish": "misafir odası"
+        },
+        {
+          "id": "1",
+          "german": "das Zimmer, –",
+          "turkish": "oda"
+        },
+        {
+          "id": "1",
+          "german": "die Garage, n",
+          "turkish": "garaj"
+        },
+        {
+          "id": "1",
+          "german": "der Terrasse, n",
+          "turkish": "teras"
+        },
+        {
+          "id": "1",
+          "german": "der Dachboden, ..",
+          "turkish": "çatı katı"
+        }
+      ]
+    },
+    {
+      "title": "Gemüse",
+      "item": [
+        {
+          "id": "1",
+          "german": "die Tomate, n",
+          "turkish": "domates"
+        },
+        {
+          "id": "1",
+          "german": "die Kartoffel, n",
+          "turkish": "patates"
+        },
+        {
+          "id": "1",
+          "german": "der Paprika, s",
+          "turkish": "biber"
+        },
+        {
+          "id": "1",
+          "german": "die Zwiebel, n",
+          "turkish": "soğan"
+        },
+        {
+          "id": "1",
+          "german": "der Knoblauch",
+          "turkish": "sarımsak"
+        },
+        {
+          "id": "1",
+          "german": "die Okra, s",
+          "turkish": "bamya"
+        },
+        {
+          "id": "1",
+          "german": "die Bohne, n",
+          "turkish": "fasulye"
+        },
+        {
+          "id": "1",
+          "german": "die Erbse, n",
+          "turkish": "bezelye"
+        },
+        {
+          "id": "1",
+          "german": "die Kid­ney­boh­ne",
+          "turkish": "barbunya"
+        },
+        {
+          "id": "1",
+          "german": "der Kohl, e",
+          "turkish": "lahana"
+        },
+        {
+          "id": "1",
+          "german": "der Blumenkohl, e",
+          "turkish": "karnıbahar"
+        },
+        {
+          "id": "1",
+          "german": "der Brokkoli",
+          "turkish": "brokoli"
+        },
+        {
+          "id": "1",
+          "german": "die Aubergine, n",
+          "turkish": "patlıcan"
+        },
+        {
+          "id": "1",
+          "german": "die Möhre, n",
+          "turkish": "havuç"
+        },
+        {
+          "id": "1",
+          "german": "der Kürbis, se",
+          "turkish": "Balkabağı"
+        },
+        {
+          "id": "1",
+          "german": "der Zucchino",
+          "turkish": "kabak"
+        },
+        {
+          "id": "1",
+          "german": "der Mais, e",
+          "turkish": "mısır"
+        },
+        {
+          "id": "1",
+          "german": "die Gurke, n",
+          "turkish": "salatalık"
+        },
+        {
+          "id": "1",
+          "german": "der Lattich, e",
+          "turkish": "marul"
+        },
+        {
+          "id": "1",
+          "german": "die Minze, n",
+          "turkish": "nane"
+        },
+        {
+          "id": "1",
+          "german": "die Petersilie, n",
+          "turkish": "maydanoz"
+        },
+        {
+          "id": "1",
+          "german": "der Dill, e",
+          "turkish": "dereotu"
+        },
+        {
+          "id": "1",
+          "german": "der Spinat, e",
+          "turkish": "ıspanak"
+        },
+        {
+          "id": "1",
+          "german": "der Ginger, –",
+          "turkish": "zencefil"
+        },
+        {
+          "id": "1",
+          "german": "der Radi, –",
+          "turkish": "turp"
+        },
+        {
+          "id": "1",
+          "german": "die Artischocke, n",
+          "turkish": "enginar"
+        },
+        {
+          "id": "1",
+          "german": "der Champignon, s",
+          "turkish": "mantar"
         }
       ]
     }
